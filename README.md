@@ -1,16 +1,15 @@
-## Hi there 👋
+## Kinh báo hiếu
 
-<!--
-**kinhbaohieu/kinhbaohieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kinh báo hiếu là một hình thức thể hiện lòng hiếu kính và tri ân đối với cha mẹ và tổ tiên trong văn hóa Á Đông, đặc biệt là trong truyền thống của đạo Phật và các phong tục tập quán của nhiều quốc gia Đông Á. Đây là một hoạt động mang ý nghĩa sâu sắc, thể hiện sự tôn trọng, biết ơn và yêu thương đối với bậc sinh thành và tổ tiên.
 
-Here are some ideas to get you started:
+#kinhbaohieu #timhieuvekinhbaohieu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://kinhbaohieu.com
+
+https://x.com/kinhbaohieu
+
+https://www.pinterest.com/kinhbaohieu/
+
+https://www.youtube.com/channel/UC_308q1P4ORogpPcB52bcLQ
+
+https://vimeo.com/kinhbaohieu
